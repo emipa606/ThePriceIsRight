@@ -1,0 +1,4 @@
+# Changelog for ThePriceIsRight
+
+1.6.1 - Updated for 1.6
+
